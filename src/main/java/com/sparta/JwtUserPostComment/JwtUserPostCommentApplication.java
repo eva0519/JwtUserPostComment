@@ -11,5 +11,4 @@ public class JwtUserPostCommentApplication {
     public static void main(String[] args) {
         SpringApplication.run(JwtUserPostCommentApplication.class, args);
     }
-
 }
