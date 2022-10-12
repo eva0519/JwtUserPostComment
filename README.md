@@ -1,3 +1,2 @@
-# HangHae_assignment_week04
+# (JWT + Security + Board + Comment) Refference data
 
-API 명세서 및 Q&A 관련 : https://ddsiq.tistory.com/93
